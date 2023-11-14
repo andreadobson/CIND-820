@@ -11,8 +11,10 @@ This research project aims to assess the capabilities of machine learning models
 The repository's contents are organized into three folders, each corresponding to a phase of the project:
 1.  data preparation and cleaning
     * the folder contains .ipynb and .pdf files demonstrating how the data was prepared and cleaned
-2. vectorization
+2. vectorization **[INCOMPLETE]**
     * this folder contains .ipynb and .pdf files demonstrating how the text was vectorized using two methods: TF-IDF and word2vec   
 3.  modelling **[INCOMPLETE]**
-    *  this folder contains .ipynb and .pdf files demonstrating how the vectorized text was used for three model types: Naive-Bayes, logistic regression, and support vector machines
-    *  there are files for the following combinations: text data vectorized with TF-IDF, text data vectorized with word2vec, title data vectorized with TF-IDF, and title data vectorized with word2vec
+    *  this folder contains .ipynb and .pdf files demonstrating how the vectorized text was used for different models
+    *  there is a file for each combination of attribute (title or text), vectorization method (TF-IDF or word2vec), and model type (Naive-Bayes, logistic regression, and support vector machine)
+
+A copy of the dataset has also been uploaded to the repository as "WELFake_Dataset.csv".
