@@ -13,7 +13,7 @@ The repository's contents are organized into three folders, each corresponding t
     * the folder contains .ipynb and .pdf files demonstrating how the data was prepared and cleaned
 2. vectorization
     * this folder contains .ipynb and .pdf files demonstrating how the text was vectorized using two methods: TF-IDF and word2vec   
-3.  modelling **[INCOMPLETE]**
+3.  modelling
     *  this folder contains .ipynb and .pdf files demonstrating how the vectorized text was used for different models
     *  there is a file for each type of model used: logistic regression, Naive-Bayes, and support vector machine
 
