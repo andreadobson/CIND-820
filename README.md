@@ -16,5 +16,7 @@ The repository's contents are organized into three folders, each corresponding t
 3.  modelling
     *  this folder contains .ipynb and .pdf files demonstrating how the vectorized text was used for different models
     *  there is a file for each type of model used: logistic regression, Naive-Bayes, and support vector machine
+4. results
+    * this folder contains .ipynb and .pdf files comparing and visualizing modelling results
 
 A copy of the dataset has also been uploaded to the repository as "WELFake_Dataset.csv".
